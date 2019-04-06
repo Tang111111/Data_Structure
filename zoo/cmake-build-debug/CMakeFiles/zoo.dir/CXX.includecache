@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tang/Downloads/Data Structure/zoo/toplogical.cpp
+toplogical.h
+/Users/tang/Downloads/Data Structure/zoo/toplogical.h
+iostream
+-
+vector
+-
+queue
+-
+
+/Users/tang/Downloads/Data Structure/zoo/toplogical.h
+iostream
+-
+vector
+-
+
